@@ -3,8 +3,8 @@ from transformers import pipeline
 
 # --- Configuration ---
 AUDIO_PATH = "../audios/tokenization_demo.wav"
-ASR_MODEL = "facebook/wav2vec2-large-960h"
-SUMMARIZER_MODEL = "sshleifer/distilbart-cnn-12-6"
+ASR_MODEL = "openai/whisper-small"
+SUMMARIZER_MODEL = "facebook/bart-large-xsum"
 MAX_SUMMARY_LENGTH = 60
 MIN_SUMMARY_LENGTH = 20
 
