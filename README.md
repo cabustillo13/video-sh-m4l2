@@ -1,6 +1,6 @@
 # Pipelines de Audio, WER y Demos de Evaluación
 
-El objetivo es ilustrar flujos de trabajo prácticos para **Reconocimiento Automático del Habla (ASR)**, los efectos de la **tokenización** y la **resumización de audio a texto**.
+El objetivo es ilustrar flujos de trabajo prácticos para **Reconocimiento Automático del Habla (ASR)**, los efectos de la **tokenización** y el **resumen de audio a texto**.
 
 ## Demos
 
